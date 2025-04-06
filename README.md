@@ -9,10 +9,10 @@ I'm a developer always exploring new technologies and building interesting proje
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kordyss99&show_icons=true&hide_title=true)
+![kordyss99's github stats](https://github-readme-stats.vercel.app/api?username=kordyss99&show_icons=true&theme=radical)
 
 ## 📈 GitHub Activity
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=kordyss99&show_icons=true&theme=radical)
+
 
 
 ## 📬 How to Reach Me
