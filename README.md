@@ -12,8 +12,7 @@ I'm a developer always exploring new technologies and building interesting proje
 ![kordyss99's github stats](https://github-readme-stats.vercel.app/api?username=kordyss99&show_icons=true&theme=radical)
 
 ## 📈 GitHub Activity
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordyss99&layout=compact)](https://github.com/kordyss99/github-readme-stats)
 
 ## 📬 How to Reach Me
 - Email: [your.email@example.com](mailto:your.email@example.com)
