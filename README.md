@@ -1,4 +1,4 @@
-# Hi, I'm Kordyss99! 👋
+![image](https://github.com/user-attachments/assets/31250d80-03ae-4ba2-bc48-0c8e0dd4dcec)# Hi, I'm Kordyss99! 👋
 
 Welcome to my GitHub profile! I am passionate about software development and continuously improving my skills. Here’s a little about me:
 
@@ -12,7 +12,8 @@ I'm a developer always exploring new technologies and building interesting proje
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kordyss99&show_icons=true&hide_title=true)
 
 ## 📈 GitHub Activity
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Kordyss99&theme=github)
+![image](https://github.com/user-attachments/assets/0e83f199-58a8-4060-b0e0-9c2b133be45a)
+
 
 ## 📬 How to Reach Me
 - Email: [your.email@example.com](mailto:your.email@example.com)
