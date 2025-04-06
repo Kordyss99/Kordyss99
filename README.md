@@ -6,17 +6,13 @@ Welcome to my GitHub profile! I am passionate about software development and con
 I'm a developer always exploring new technologies and building interesting projects. I’m always up for learning and growing!
 
 ## 🧑‍💻 Languages & Tools
-- **Programming Languages**: C#, JavaScript, Python, TypeScript
-- **Web Development**: React, Node.js, Express, HTML5, CSS3
-- **Databases**: PostgreSQL, MongoDB
-- **Dev Tools**: Git, Docker, VSCode, GitHub Actions
-- **Cloud & Others**: AWS, Firebase, GraphQL
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kordyss99&show_icons=true&hide_title=true)
 
 ## 📈 GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Kordyss99&theme=github)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Kordyss99&theme=github)
 
 ## 📬 How to Reach Me
 - Email: [your.email@example.com](mailto:your.email@example.com)
