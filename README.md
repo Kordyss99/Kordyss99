@@ -1,44 +1,31 @@
-Hey there, I'm [Your Name]! 👨‍💻
-Welcome to my GitHub profile! I'm a software developer who loves to explore new technologies and build amazing things. I’m always learning and improving my skills, and I enjoy working on projects that challenge me.
+# Hi, I'm Kordyss99! 👋
 
-🛠 Technologies & Skills
-I'm skilled in a variety of technologies, and I enjoy learning new tools and languages to enhance my development process. Here’s a snapshot of what I’m working with:
+Welcome to my GitHub profile! I am passionate about software development and continuously improving my skills. Here’s a little about me:
 
-Languages: C#, JavaScript, Python, TypeScript
+## 🚀 About Me
+I'm a developer always exploring new technologies and building interesting projects. I’m always up for learning and growing!
 
-Web Development: React, Node.js, Express, HTML5, CSS3
+## 🧑‍💻 Languages & Tools
+- **Programming Languages**: C#, JavaScript, Python, TypeScript
+- **Web Development**: React, Node.js, Express, HTML5, CSS3
+- **Databases**: PostgreSQL, MongoDB
+- **Dev Tools**: Git, Docker, VSCode, GitHub Actions
+- **Cloud & Others**: AWS, Firebase, GraphQL
 
-Databases: PostgreSQL, MongoDB
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kordyss99&show_icons=true&hide_title=true)
 
-Dev Tools: Git, Docker, VSCode, GitHub Actions
+## 📈 GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Kordyss99&theme=github)
 
-Cloud & Others: AWS, Firebase, GraphQL
+## 📬 How to Reach Me
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
+- Twitter: [@YourUsername](https://twitter.com/YourUsername)
 
-🌱 What I’m currently learning:
-AI/ML: Delving into the world of machine learning and AI algorithms.
+## 🤔 Fun Facts
+- I love coding challenges on platforms like LeetCode and Codewars!
+- Outside of coding, I enjoy reading, playing video games, and exploring new technologies.
 
-Cloud Computing: Exploring AWS and other cloud platforms.
+Looking forward to collaborating with other developers. Feel free to reach out!
 
-Blockchain: Building decentralized apps (dApps).
-
-📈 My GitHub Stats
-Here’s a quick look at my GitHub contributions and activity!
-
-
-🧑‍💻 GitHub Activity
-Want to see my latest contributions? Check out my recent activity below!
-
-
-📫 How to reach me:
-Email: your.email@example.com
-
-LinkedIn: Your LinkedIn
-
-Twitter: @YourUsername
-
-🔥 Fun Facts
-I’m an avid problem-solver and love coding challenges (LeetCode, Codewars, etc.).
-
-Outside of coding, I enjoy reading, playing video games, and exploring new technologies.
-
-I’m always open to collaborating with other developers—feel free to reach out!
